@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\bin\Debug\net7.0\Homework03-2.exe
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\bin\Debug\net7.0\Homework03-2.deps.json
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\bin\Debug\net7.0\Homework03-2.runtimeconfig.json
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\bin\Debug\net7.0\Homework03-2.dll
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\bin\Debug\net7.0\Homework03-2.pdb
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.AssemblyInfo.cs
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.dll
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\refint\Homework03-2.dll
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.pdb
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\Homework03-2.genruntimeconfig.cache
+C:\Users\user\Desktop\Unity_nbcamp\coding\Homework03-2\obj\Debug\net7.0\ref\Homework03-2.dll
